@@ -5,7 +5,7 @@ Welcome! This repository contains (beginner-friendly) C++ projects I’ve create
 
 ---
 
-## 1. Tic-Tac-Toe Game 
+## 1. Tic-Tac-Toe Game and ##2. GPA calculator
 
 A simple console-based Tic-Tac-Toe game in C++.  
 - Playable by two players in the terminal.  
@@ -22,12 +22,13 @@ g++ Tic_Tac_Toe.cpp -o Tic_Tac_Toe.exe
 
 ---
 
-##2. GPA - calculator
+**##2. GPA - calculator**
+
 A simple GPA calculator using letter grades (A, B, C, D, F).
   -Enter the number of subjects and your grades.
   -Calculates GPA on a *4.0* scale.
 
-## How to Run
+### How to Run
 1.Compile the code:
 ``` bash
   cl GPA.cpp
